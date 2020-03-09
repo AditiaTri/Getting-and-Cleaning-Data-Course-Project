@@ -5,7 +5,7 @@ The data is taken from UCI HAR Dataset. This dataset provide the following varia
 subject - identifier of participant
 activity - identifier  of activity type
 
-Mean and standart deviation for the following features (other values are presented in initial dataset, but for this reasearch only these parameters were used)
+Mean and standard deviation for the following features (other values are presented in initial dataset, but for this reasearch only these parameters were used)
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
